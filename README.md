@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EliskaSpiralka
+- 👋 Hi, I’m @EliskaSpilarova
 - 👀 I’m interested in coding, data analysis and whatever else may come
 - 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on ...
